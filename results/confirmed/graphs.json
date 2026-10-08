@@ -1,0 +1,220 @@
+{
+  "binding_id": "5dd7d5ad3b7317e6738e745e5bdf93b2e8b8ddf329718b481939c42f8c909518",
+  "examples": [
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ]
+      ],
+      "n": 2,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          2
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        1
+      ],
+      "edges": [
+        [
+          1,
+          2
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        1
+      ]
+    },
+    {
+      "cover": [
+        1
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        1
+      ]
+    },
+    {
+      "cover": [
+        2
+      ],
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        2
+      ]
+    },
+    {
+      "cover": [
+        0,
+        1
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "n": 3,
+      "selected": [
+        0,
+        1
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ]
+      ],
+      "n": 4,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          2
+        ]
+      ],
+      "n": 4,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "n": 4,
+      "selected": [
+        0
+      ]
+    },
+    {
+      "cover": [
+        0
+      ],
+      "edges": [
+        [
+          0,
+          3
+        ]
+      ],
+      "n": 4,
+      "selected": [
+        0
+      ]
+    }
+  ],
+  "instances": 1094,
+  "mismatches": 0,
+  "phase": "graphs",
+  "resource": {
+    "cpu_seconds": 0.5308027029999991,
+    "peak_rss_kib": 93872,
+    "wall_seconds": 0.5305371519998516,
+    "workers": 1
+  }
+}
